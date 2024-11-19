@@ -9,6 +9,7 @@ public class Hello{
 	Scanner sc = new Scanner(System.in);
 	ch =sc.nextLine();
 	System.out.println("Length: "+ch.length());
+	System.out.println();
 	}
 
 }
